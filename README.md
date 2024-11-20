@@ -1,3 +1,4 @@
+Huffman Coding Compression and Decompression
 This project implements Huffman Coding, a popular algorithm for lossless data compression. The code provides functionalities to compress and decompress text files using Huffman Coding.
 
 Features
