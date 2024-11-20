@@ -16,7 +16,7 @@ Ensure you have a C++ compiler installed, such as g++.
 Steps to Use
 Clone the Repository:
 
-git clone https://github.com/chaman-yadav/file-compressor.git
+git clone https://github.com/ShashankBhushan007/file-compressor.git
 cd file-compressor
 Compile the Program:
 
